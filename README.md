@@ -28,7 +28,7 @@ I'm Kanek, a Exiled enthusiast who believes in the power of technology to make t
 ## Some Fun Facts
 
 🎵 I'm also a music enthusiast and love to explore the wildest trails of metal and classical music.
-🍵 Can't start my day without a cup of Americano cofee.
+🍵 Can't start my day without a cup of Americano coffee.
 📚 Currently reading All Quiet on the Western Front.
 🚴‍♀️ Love to go on a Loooooooooooong walks to unwind.
 
