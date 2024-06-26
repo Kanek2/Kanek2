@@ -19,8 +19,6 @@ I'm Kanek, a Exiled enthusiast who believes in the power of technology to make t
 
 📫 Feel free to reach out to me for collaborations or just to say hi!  
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kamil-%C5%82ach-62ab20302/)
-
 📧 Drop me an email at kanekuu.donito@gmail.com
 
 🌐 Contact me on discord: kanekuu
