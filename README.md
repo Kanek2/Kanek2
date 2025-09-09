@@ -1,34 +1,27 @@
-# Hi, I'm Kanek 👋
+# 👋 Yo, I’m Kanek  
 
-**SCP:SL Plugin Developer** 
-Building tools and plugins to enhance the SCP:SL experience.
+**SCP:SL Plugin Developer**  
+Tinkering with code, chaos, and caffeine to bend SCP:SL into new shapes.  
 
----
-
-### 🔧 Tech & Interests
-
-- **Coding**: Deep dive into C# and the Exiled framework. Crafting clean, efficient plugins for SCP:SL.
-- **Learning**: Currently leveling up my C#, JS, HTML, skills and reverse-engineering game mechanics.
-- **Obsessions**: Music theory, obscure algorithms, and the math behind chaos.
+![Profile Views](https://komarev.com/ghpvc/?username=Kanek2&label=Visitors&color=blueviolet&style=for-the-badge)  
+![GitHub followers](https://img.shields.io/github/followers/Kanek2?label=Follow&style=for-the-badge)  
+![GitHub stars](https://img.shields.io/github/stars/Kanek2?style=for-the-badge)  
 
 ---
 
-### 🚀 Projects
+## 🔧 Tech & Interests  
 
-- **SCP:SL Plugins**: From quality-of-life tweaks to game-changing features. Most of my repos are private, but 
-- **Experiments**: Random ideas turned into code—sometimes useful, always educational.
-
----
-
-### 📬 Contact Info
-
-- **Email**: kanekuu.donito@gmail.com  
-- **Discord**: kanekuu (DM open for collabs or SCP lore debates)  
+- ⚙️ **Coding**: Living in **C#** with the Exiled framework.  
+- 🧪 **Learning**: Sharpening C#, JS, HTML, and dabbling in reverse-engineering mechanics.  
+- 🌀 **Obsessions**: Music theory, obscure algorithms, and the math behind chaos.   
 
 ---
 
-### 🎵 Off-Keyboard
+## 🚀 Projects  
 
-- **Music**: Blasting metal riffs one minute, dissecting Bach fugues the next.
-- **Rituals**: Americano-fueled mornings, 2AM walks with no destination.
+- **SCP:SL Plugins** – from quality-of-life tweaks to game-changing features.  
+- **Random Experiments** – little code doodles that sometimes work, sometimes summon chaos.  
+
+⚡ *Most repos are private (SCP secrets, you get it), but I share the spicy ones here.*  
+
 
