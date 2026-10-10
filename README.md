@@ -1,10 +1,7 @@
 # Hoi, I'm Kamil 👋
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kanek2&label=Visitors&color=blueviolet&style=for-the-badge)
 
-
-![GitHub stars](https://img.shields.io/github/stars/Kanek2?style=for-the-badge)
 
 Self-taught full-stack developer based in Poland. 
 
