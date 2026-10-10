@@ -1,21 +1,26 @@
-# yo, i'm kanek
-
-**scp:sl plugin dev** — breaking the game in all the right ways
-
-just another dev lost in the c# sauce, making plugins that either slap hard or crash harder. no in-between.
+# Hoi, I'm Kamil 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kanek2&label=Visitors&color=blueviolet&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Kanek2?style=for-the-badge)
 
----
+Self-taught full-stack developer based in Poland. 
 
-## what i do
-
-honestly just here to code
+I enjoy taking ideas from zero to production — whether that means writing server plugins in C#, structuring databases, building APIs, or polishing interfaces so people actually enjoy clicking them.
 
 ---
 
-## stuff i've built
+###  What I'm up to
 
-a lot of things
+- 🎮 **[Sieć Donito](https://siecdonito.pl)** — Founder and lead dev for a Polish HardRP community in *SCP: Secret Laboratory*. I built and maintain the entire ecosystem behind it.
+- 💻 **[NodeKane](https://nodekane.pl)** — My web studio where I create tailored websites, automations, and tooling for small businesses and server owners.
+- ⚡ **Freelance & Bots** — Crafting custom Discord integrations, automation scripts, and full-stack web apps that solve day-to-day headaches.
 
+---
+
+### 🧰 Daily tools
+
+```text
+Frontend  │ Vue.js, HTML5, CSS
+Backend   │ Node.js, Express, C#
+Database  │ MariaDB, MySQL
+Tooling   │ Git, PowerShell, Python, Discord API
